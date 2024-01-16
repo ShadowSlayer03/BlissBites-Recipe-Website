@@ -32,7 +32,7 @@ BlissBites is a delightful recipe website built with EJS, Express, Node.js, and 
 
 ## Live Preview
 
-This project is hosted [here]().
+This project is hosted [here](https://blissbites-recipe-website.onrender.com/).
 
 ## Get this project in your local folder
 
