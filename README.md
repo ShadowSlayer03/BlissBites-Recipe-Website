@@ -32,13 +32,13 @@ BlissBites is a delightful recipe website built with EJS, Express, Node.js, and 
 
 ## Live Preview
 
-This project is hosted [here](https://blissbites-recipe-website.onrender.com/).
+This project is hosted [here](https://blissbites-recipe-website.onrender.com).
 
 ## Get this project in your local folder
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/BlissBites.git
+   git clone https://github.com/ShadowSlayer03/BlissBites-Recipe-Website.git
 
 2. **Install dependencies:**
    ```bash
